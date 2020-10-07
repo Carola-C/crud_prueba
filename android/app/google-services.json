@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1061874017014",
+    "firebase_url": "https://proyectomov2.firebaseio.com",
+    "project_id": "proyectomov2",
+    "storage_bucket": "proyectomov2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061874017014:android:da30a284e50046cbb002d7",
+        "android_client_info": {
+          "package_name": "com.example.crudprueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061874017014-3ekbbmf1oa9mqnapk4sn4agfpvedro2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwQ9bkqUAmi2GyCiLWG0BoaS7C92EtmsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061874017014-3ekbbmf1oa9mqnapk4sn4agfpvedro2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
